@@ -28,7 +28,9 @@ public class Main {
             System.out.println("5.SEARCH");
             System.out.println("6.SORT BY ID");
             System.out.println("7.SAVE");
+            System.out.println("0.EXIT");
             System.out.println("_________");
+           
             System.out.print("Select: ");
             choice = scanner.nextInt();
             switch (choice){
